@@ -1,7 +1,7 @@
 # SSPanel-VNet-V2ray
 基于[VNet-V2ray](https://github.com/ProxyPanel/VNet-V2ray)修改，对接SSPanel的V2ray后端。目前支持获取节点，用户信息，节点限速，暂不支持中转和审计规则。
 
-此项目只是试验性质，不再更新，请关注[XrayR](https://github.com/RManLuo/XrayR)
+此项目只是试验性质，不再更新，请关注[XrayR](https://github.com/XrayR-project/XrayR)
 # 编译
 1. [Go语言](https://golang.org/), [Bazel](https://docs.bazel.build/)
 2. 依次运行
